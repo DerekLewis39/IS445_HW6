@@ -1,0 +1,22 @@
+.content{
+    background-color: blue;
+    margin: auto;
+    width:750px;
+    margin-top: 70px;
+}
+h1{
+    font-size: 70px;
+    background-color:red;
+}
+#todoForm{
+    background-color: #0088cc;
+    text-align:center;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+
+}
+#todoInput{
+    width:90%;
+    font-size: 1em;
+    padding: 0.5em 1em;
+}
